@@ -20,3 +20,5 @@
 ||paradice.in$all
 ||megaplay.io$all
 ||winz.io$all
+||replacemypolicyllc.com$all
+||revivalfilm.com$all
