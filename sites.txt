@@ -1,1 +1,7 @@
-
+! ------------------------------------[INFO]--------------------------------------
+! Title: Barham Adb - Blocked Sites
+! Expires: 1 day
+! Homepage: https://github.com/BarhamBasha/adb
+! ------------------------------------[FILTERS]-------------------------------------
+||see.xxx$all
+||bellesa.co$all
