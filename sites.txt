@@ -5,3 +5,18 @@
 ! ------------------------------------[FILTERS]-------------------------------------
 ||see.xxx$all
 ||bellesa.co$all
+||bitcoinclix.net$all
+||bc.game$all
+||gamdom.com$all
+||roobet.com$all
+||betfury.io$all
+||betway.com$all
+||slotsempirebonuses.com$all
+||pasino.com$all
+||sandboxcasino.io$all
+||bitstarz49.com$all
+||wowcasino.com$all
+||yebet.com$all
+||paradice.in$all
+||megaplay.io$all
+||winz.io$all
