@@ -1,0 +1,8 @@
+! ------------------------------------[INFO]--------------------------------------
+! Title: Barham Adb - Anti AdBlock
+! Expires: 1 day
+! Homepage: https://github.com/BarhamBasha/adb
+! ------------------------------------[FILTERS]-------------------------------------
+!--- BlockAdBlock ---
+! Old and 4.2b `#%#//scriptlet("prevent-bab")`
+autofaucet.dutchycorp.space#%#//scriptlet("prevent-bab")
