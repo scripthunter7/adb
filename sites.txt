@@ -6,7 +6,6 @@
 ||see.xxx$all
 ||bellesa.co$all
 ||bitcoinclix.net$all
-||bc.game$all
 ||gamdom.com$all
 ||roobet.com$all
 ||betfury.io$all
