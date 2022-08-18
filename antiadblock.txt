@@ -5,4 +5,4 @@
 ! ------------------------------------[FILTERS]-------------------------------------
 !--- BlockAdBlock ---
 ! Old and 4.2b `#%#//scriptlet("prevent-bab")`
-earny.space,autofaucet.dutchycorp.space#%#//scriptlet("prevent-bab")
+aruble.net,earny.space,autofaucet.dutchycorp.space#%#//scriptlet("prevent-bab")
