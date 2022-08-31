@@ -8,4 +8,4 @@
 aruble.net,earny.space,autofaucet.dutchycorp.space#%#//scriptlet("prevent-bab")
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/127924
-$script,redirect-rule=noopjs,domain=shinchu.net|crewus.net|ultraten.net|topcryptoz.net|allcryptoz.net
+$script,redirect-rule=noopjs,domain=shinchu.net|crewus.net|ultraten.net|topcryptoz.net|allcryptoz.net|thumb8.net
