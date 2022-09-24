@@ -32,3 +32,4 @@
 ||qedcomp.com$all
 ||video-facts.com$all
 ||whalefin.com$all
+||msr2030.com$all
