@@ -33,3 +33,4 @@
 ||video-facts.com$all
 ||whalefin.com$all
 ||msr2030.com$all
+||exness.com$all
