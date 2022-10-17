@@ -34,3 +34,4 @@
 ||whalefin.com$all
 ||msr2030.com$all
 ||exness.com$all
+||bitmagge.com$all
