@@ -36,3 +36,4 @@
 ||exness.com$all
 ||bitmagge.com$all
 ||gruposputaria.net$all
+||easy-claimer.shop$all
