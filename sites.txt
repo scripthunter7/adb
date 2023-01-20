@@ -39,3 +39,4 @@
 ||easy-claimer.shop$all
 ||bongacams.com$all
 ||brainbux.com$all
+||drivereasy.com$all
