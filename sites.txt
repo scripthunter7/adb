@@ -41,3 +41,4 @@
 ||brainbux.com$all
 ||drivereasy.com$all
 ||mdn.lol$all
+||chinhnhacoban.com$all
