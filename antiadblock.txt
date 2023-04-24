@@ -1,3 +1,4 @@
+[AdGuard]
 ! ------------------------------------[INFO]--------------------------------------
 ! Title: Barham Adb - Anti AdBlock
 ! Expires: 1 day

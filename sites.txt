@@ -1,3 +1,4 @@
+[AdGuard]
 ! ------------------------------------[INFO]--------------------------------------
 ! Title: Barham Adb - Blocked Sites
 ! Expires: 1 day
